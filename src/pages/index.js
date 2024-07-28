@@ -10,10 +10,7 @@ export default function Home() {
 
   useEffect(() => {
     console.log("window.screen.width;", window.screen.width)
-    
       setScreenWidth(window.screen.width);
-
- 
   }, []);
 
   // console.log(screenWidth)
