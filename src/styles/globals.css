@@ -11,21 +11,21 @@ body {
     padding: 0;
     box-sizing: border-box;
     color: #f5f5f5;
-    background-image: url('./bg-mobile.jpg');
+    background-image: url('https://avishkarabhishek786.github.io/trh-web/bg-mobile.jpg');
     background-size: cover; /* Adjusts the size of the image to cover the entire background */
     background-repeat: no-repeat; /* Prevents the image from repeating */
 }
 
 @media (min-width: 768px) {
     body {
-        background-image: url('./bg-tablet.jpg');
+        background-image: url('https://avishkarabhishek786.github.io/trh-web/bg-tablet.jpg');
     }
 }
 
 /* Background image for desktops */
 @media (min-width: 1024px) {
     body {
-        background-image: url('./bg-desktop.jpg');
+        background-image: url('https://avishkarabhishek786.github.io/trh-web/bg-desktop.jpg');
     }
 }
 
