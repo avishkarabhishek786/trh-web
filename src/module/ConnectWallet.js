@@ -40,10 +40,10 @@ const ConnectWallet = () => {
                     <div>
                         <ul className='list-none'>
                             <li>
-                                <img src="/metamask.png" className='cursor-pointer' onClick={connectmetamask}/>
+                                <img src="./metamask.png" className='cursor-pointer' onClick={connectmetamask}/>
                             </li>
                             <li className='mt-1'>
-                                <img src="/trezor.png" className='cursor-pointer' />
+                                <img src="./trezor.png" className='cursor-pointer' />
                             </li>
                         </ul>
                     </div>
